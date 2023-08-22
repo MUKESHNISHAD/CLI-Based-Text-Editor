@@ -1,2 +1,2 @@
 # DSA_Based_Text-Editor 
-It Design CUI pattern in this cui program it perform like Nodepad
+It Design CLI pattern in this cui program it perform like Nodepad
